@@ -1,4 +1,6 @@
-# Goal: To simulate producer and consumer messages from AWS SQS
+# producer-subscriber-AWS-SQS
+
+Goal: To simulate producer and consumer messages from AWS SQS
 
 ## Prerequisites:
 
